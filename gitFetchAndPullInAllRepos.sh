@@ -1,6 +1,6 @@
 #!/bin/bash
 #  Takes in a config file of git folders as input and traverse all folders to run 'git fetch' and then 'git pull' 
-#  CONFIG FILE FORMAT:
+#  CONFIG FILE FORMAT - each folder in each line:
 #  	DIRECTORY 1
 #	DIRECTORY 2
 #	DIRECTORY 3
