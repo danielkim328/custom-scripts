@@ -6,7 +6,6 @@
 #	DIRECTORY 3
 #	...
 
-
 # E
 if [ -z "$1" ]; then
 	echo "ABORT: INPUT CONFIG FILE MISSING"
